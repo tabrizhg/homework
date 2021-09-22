@@ -1,0 +1,9 @@
+
+Proqramlasdirma nedir? elektron bir aparatin mueyyen bir isi gormesi ucun olan emrler, kodlar toplusudur.
+ 
+ 
+Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?diller daha evvelki vaxtlarda masin diline cox yaxin olub. sonraki zamanlardan indiye qeder inkisaf zamani yaranan diller insanin basa duseceyi dile yaxindir. sonra  xususiyyetleri ve funksiyalari yerine yetire bilmesine gore bir nece dene paradiqma var bunlar biri imperativ ikincisi deklarativdir. iki sebebe gore
+ 
+ 
+ 
+Software nədir və kompüterdə necə emal olunur? komputer esas iki bolumnen ibaretdir hardware ve software . hardware komputerin gozle gorunen hissesidir. software ise hardwareni isletmek ucun olan proqram ve kodlarlardir.
